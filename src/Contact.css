@@ -1,0 +1,42 @@
+.W{
+    padding-left: 70px;
+    width: 1150px;
+    overflow: hidden;
+    height: 530px;
+}
+.Q{
+    float: left;
+    padding-top: 80px;
+    margin-top: 80px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 15px;
+    padding: 40px;
+    padding-left: 10px;
+}
+.S{
+   padding-right: 60px;
+}
+label{
+    padding-right: 15px;
+}
+.R{
+    float: right;
+    padding-top: 70px;
+    padding-right: 90px;
+}
+.T{
+    text-align: justify;
+    font-size: 20px;
+    width: 300px;
+}
+.U{
+    text-align: justify;
+    font-size: 35px;
+    width: 600px;
+    color: orange;
+}
+.V{
+    float: right;
+    margin-top: 50px;
+}

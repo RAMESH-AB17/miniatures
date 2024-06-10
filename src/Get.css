@@ -1,0 +1,41 @@
+.WQ{
+    padding-left: 70px;
+    overflow: hidden;
+    height: 530px;
+    float: left;
+}
+.QW{
+    float: left;
+    padding-top: 80px;
+    margin-top: 80px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 15px;
+    padding: 40px;
+    padding-left: 10px;
+}
+.S{
+   padding-right: 60px;
+}
+label{
+    padding-right: 15px;
+}
+.RK{
+    float: right;
+    padding-top: 80px;
+    margin-top: 60px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 15px;
+    padding: 40px;
+    padding-right: 30px;
+}
+.WK{ 
+    padding-right: 150px;
+    overflow: hidden;
+    height: 530px;
+    float: right;
+}
+.KR{
+    text-align: center;
+}

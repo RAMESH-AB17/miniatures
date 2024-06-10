@@ -1,0 +1,57 @@
+.Miniature{
+    text-align: center;
+}
+.Border{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 200px;
+    height: 270px;
+    margin-left: 70px;
+    font-weight: bold;
+    padding: 15px;
+    padding-right: 10px;
+    float: inline-start;
+    text-align: center;
+}
+.Border:hover{
+    border: 3px solid gold;
+    border-radius: 10px;
+    width: 200px;
+    height: 270px;
+    margin-left: 70px;
+    font-weight: bold;
+    padding: 15px;
+    padding-right: 10px;
+    float: inline-start;
+    text-align: center;
+}
+.border{
+    text-align: center;
+    padding-left: 1px;
+}
+.det{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(21, 194, 21);
+    font-size: 15px;
+    width: 200px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+}
+.det:hover{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:white;
+    font-size: 15px;
+    width: 200px;
+    text-decoration: none;
+    color:  rgb(21, 194, 21);
+    text-align: center;
+    display: block;
+    cursor: pointer;
+}
+
+

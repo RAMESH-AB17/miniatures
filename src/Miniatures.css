@@ -1,0 +1,75 @@
+h4{
+    text-align: center;
+    font-size: 25px;
+}
+.gap{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 350px;
+}
+.align{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 200px;
+    height: 270px;
+    margin-left: 60px;
+    font-weight: bold;
+    padding: 10px;
+    padding-right: 10px;
+    float: left;
+    text-align: center;
+
+}
+.align:hover{
+    border: 3px solid orange;
+    border-radius: 10px;
+    width: 200px;
+    height: 270px;
+    margin-left: 60px;
+    font-weight: bold;
+    padding: 10px;
+    padding-right: 10px;
+    float: left;
+    text-align: center;
+}
+.line{
+    text-align: center;
+    float: left;
+}
+.design{
+    padding-left: 1px;
+    text-align: center;
+}
+.name{
+    margin-top: 8px;
+    text-align: center;
+}
+.price{
+    text-align: center;
+}
+.btn{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(21, 194, 21);
+    font-size: 15px;
+    width: 200px;
+    color: white;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn:hover{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:white;
+    font-size: 15px;
+    width: 200px;
+    color:  rgb(21, 194, 21);
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+

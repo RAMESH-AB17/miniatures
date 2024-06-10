@@ -1,0 +1,13 @@
+.a{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+}
+.c{
+    float: left;
+    font-weight: lighter;
+}
+nav{
+    text-align: end;
+    padding: 15px;
+}

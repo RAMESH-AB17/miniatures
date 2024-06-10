@@ -1,0 +1,32 @@
+.A{
+    background: linear-gradient(rgba(201, 199, 199, 0.9), rgba(201, 199, 199, 0.9)), url(./images/h.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 550px;
+    background-color: rgba(201, 199, 199, 0.9);
+}
+.B{
+    text-align: center;
+    padding: 180px;
+    font-size: 40px;
+    color: white;
+}
+.C{
+   text-decoration: none;
+   border: 1px solid orange;
+   border-radius: 15px;
+   font-size: 20px;
+   padding: 5px;
+   color: white;
+   background-color: orange;
+}
+.C:hover{
+    text-decoration: none;
+    border: 1px solid orange;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 5px;
+    color: orange;
+    background-color: white;
+ }

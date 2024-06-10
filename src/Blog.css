@@ -1,0 +1,50 @@
+.I{
+    float: right;
+    width: 600px;
+    text-align: justify;
+    padding-top: 60px;
+    padding-right: 80px;
+    font-size: 20px;
+}
+.J{
+    float: left;
+    padding-top: 80px;
+}
+.K{
+    float: right;
+    padding-top: 80px;
+    padding-right: 100px;
+}
+.L{
+    float: left;
+    width: 600px;
+    text-align: justify;
+    padding-top: 60px;
+    padding-left: 80px;
+    font-size: 20px;
+}
+.M{
+    float: left;
+    padding-top: 80px;
+}
+.N{
+    float: right;
+    width: 600px;
+    text-align: justify;
+    padding-top: 60px;
+    padding-right: 80px;
+    font-size: 20px;
+}
+.O{
+    float: left;
+    width: 600px;
+    text-align: justify;
+    padding-top: 60px;
+    padding-left: 80px;
+    font-size: 20px;
+}
+.P{
+    float: left;
+    padding-top: 80px;
+    padding-right: 100px;
+}
